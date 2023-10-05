@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Gidole+Regular&pause=1000&color=B19CD8&center=true&vCenter=true&width=500&lines=Hey!+I'm+Adeland+(%3A)](https://git.io/typing-svg)
 
 <!--
 **adeland/adeland** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
