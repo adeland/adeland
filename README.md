@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=2500&pause=1000&color=CA96F7&width=800&height=400&lines=Hey!+I'm+Adeland;Aspiring+Machine+Learning+Engineer+and+Quant+Dev.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=1250&pause=400&color=CA96F7&width=800&height=400&lines=Hey!+I'm+Adeland;Aspiring+Machine+Learning+Engineer+and+Quant+Dev.)](https://git.io/typing-svg)
